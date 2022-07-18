@@ -1,0 +1,1 @@
+# go_manifest_test
